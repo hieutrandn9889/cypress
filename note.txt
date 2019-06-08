@@ -1,0 +1,4 @@
+npm init
+npm i cypress
+./node_modules/.bin/cypress open >> demo
+cypress:open >> run
